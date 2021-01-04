@@ -3,6 +3,6 @@
 
 <br><br>
 Today I learned about sql-connection using mysql.connector <br>
-Pandas groupby, a bit of visualization <br>
+Pandas groupby, a bit of visualization, including joint-plot (forgot about this already :") <br>
 Correlation & covariance <br>
 
